@@ -1,4 +1,4 @@
-🌿 *These three projects are console-based, written in Python – expanding my understanding of data structures and scheduling logic using queues, stacks, and binary trees.*
+🌿 *These three projects are console-based, written in Python - expanding my understanding of data structures and scheduling logic using queues, stacks, and binary trees.*
 
 # 1. Mini Trees Concept 🌳
 This project explores how different tree traversal algorithms work using binary trees. It was built to practice recursive logic and visualize how data flows through a tree structure.
