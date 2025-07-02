@@ -1,6 +1,6 @@
 🌿 *These three projects are console-based, written in Python – expanding my understanding of data structures and scheduling logic using queues, stacks, and binary trees.*
 
-# 4. Mini Trees Concept 🌳
+# 1. Mini Trees Concept 🌳
 This project explores how different tree traversal algorithms work using binary trees. It was built to practice recursive logic and visualize how data flows through a tree structure.
 
 # Features
@@ -10,7 +10,7 @@ This project explores how different tree traversal algorithms work using binary 
 * **Readable Outputs** for each traversal type
 
 
-# 5. Hospital Appointment System 📅
+# 2. Hospital Appointment System 📅
 A hospital scheduling system that organizes patient appointments across multiple days. Appointment times are auto-generated in **30-minute slots** starting from 9:00 AM, and queued based on the date provided.
 
 # Features
@@ -20,7 +20,7 @@ A hospital scheduling system that organizes patient appointments across multiple
 * **FIFO Queue Structure** ensures fair and timely booking
   
 
-# 6. Doctor Appointment System 🩺
+# 3. Doctor Appointment System 🩺
 This appointment system handles requests, confirmations, cancellations, and rescheduling using a combination of **queues, stacks, and lists** to simulate a real clinic workflow.
 
 # Features
